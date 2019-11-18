@@ -8,5 +8,5 @@ We have used makefiles for the project to run.The main makefile is 'makefile.mk'
 
 This project was made by a team of 3:
 a)Rishit Chaudhary-https://github.com/rishitc - Developed RSA encryption for our project
-b)Jayant Sipani - File storage,testing
+b)Jayant Sipani-https://github.com/sipanijayant - File storage,testing
 c)Sreyans Bothra(me)-https://github.com/sreyansb - Developed XOR encryption,Input-Output for our project.
